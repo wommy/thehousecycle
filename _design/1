@@ -1,0 +1,34 @@
+=== app root
+
+take a folder
+	app/
+
+in that folder i want to have a template file
+	template.html
+
+and app pages
+	ind
+
+
+for
+
+
+config
+
+
+INPUT
+template
+index
++ [about, form, help, steps]
+	title
+	content
+	style
+
+OUTPUT
+index
++ [about, form, help, steps]
+
+im so confused about what to do
+i want to make an app
+
+that requires a .json
